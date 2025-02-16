@@ -27,3 +27,5 @@ Learning Process:
             α (alpha) is the learning rate.
             r is the reward.
             max Q(s') is the best future reward from the next state.
+
+This AI does not use deep learning or neural networks but relies on tabular Q-learning, which is effective for small state spaces like the Nim game.
